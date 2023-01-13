@@ -1,0 +1,1 @@
+web: gunicorn Shayar.wsgi --log-file -
